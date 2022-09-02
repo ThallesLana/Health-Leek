@@ -123,6 +123,15 @@ ul {
     border-bottom: 3px solid #EBA417;
 }
 
+.img1{
+    width: 400px;
+}
+
+.img2{
+    width: 400px;
+    height:210px;
+}
+
 @media only screen and (max-width: 950px){
     .card-main{
         width: 85%;
@@ -154,5 +163,16 @@ ul {
 
     .card-main{
         width: 90%;
+    }
+
+    .conteudo{
+        width: 100%;
+    }
+    .img1{
+        width: 300px;
+    }
+    .img2{
+        width: 300px;
+        height:150px;
     }
 }

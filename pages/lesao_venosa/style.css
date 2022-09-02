@@ -20,6 +20,10 @@ body{
     color: #E1E1E6;
 }
 
+.img1{
+    width: 500px;
+}
+
 .card-main{
     width: 80%;
     display: flex;
@@ -154,5 +158,12 @@ ul {
 
     .card-main{
         width: 90%;
+    }
+
+    .conteudo{
+        width: 100%;
+    }
+    .img1{
+        width: 300px;
     }
 }
